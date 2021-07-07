@@ -1,21 +1,30 @@
 # JP-Morgan-Virtual-Intern
 
-Engineering Virtual Experience
-You’re going to assist with some development of an alternative way to visualize and analyze share price data for our traders – this will alert them of potential trading opportunities.
+# JPMorgan-Chase-Virtual-Internship
+This repository contains all the submitted patch files of the various tasks assigned by JPMorgan Chase & Co. Software Engineering Virtual Internship
 
-JPMorgan Chase has traders in all the major financial centers and creates a marketplace for asset classes around the globe for our investor clients. Trading teams are organized by asset class:
+---
+## I have worked on the following tasks during the internship
+#### 1. Interface with a stock price data feed [Click here to see Task-1](https://github.com/Aman22sharma/JPMorgan-Chase-Virtual-Internship/tree/master/JPMC-tech-task-1-PY3)
+- Interface with a stock price data feed and set your system for analysis of data
+- `Finalcial Data` 
+- `Python3`
+- `Git`
+- `Basic Programming`
 
-Equities (stocks)
-Commodities
-Credit (debt and bonds)
-Currency & Emerging Markets
-Public Finance (Government bonds)
-Interest rates
-Securitized Products
-For this project, a trader from the equities team (publicly listed company stocks) has requested functionality be added to their dashboard to allow them to input specific information so they can monitor a new trading strategy.
+#### 2. Use JPMorgan Chase frameworks and tools [Click here to see Task-2](https://github.com/Aman22sharma/JPMorgan-Chase-Virtual-Internship/tree/master/JPMC-tech-task-2-PY3)
+- Implement the perspective open source code in prepration for data visualization 
+- `React js` 
+- `TypeScript`
+- `Web Applications`
 
-In order to do this, you’ll need to set up your system so you can interface with the relevant financial data feed, make the required calculations and then present this in a way that allows the traders to visualize and analyze this data in real time.
-
-The visualization of charts and data analysis our trader’s see is all built on JPMorgan Chase's own open sourced software called Perspective. You’ll learn how to implement this to facilitate the trader’s requested changes and deliver actionable insights.
-
-You’ll have to gain an understanding of the user requirements and then build something that meets those requirements.
+#### 3. Display data visually for traders [Click here to see Task-3](https://github.com/Aman22sharma/JPMorgan-Chase-Virtual-Internship/tree/master/JPMC-tech-task-3-PY3)
+- Use Perspective to create the chart for the trader's dashboard  
+- `Technical Communications` 
+- `Financial Analysis`
+- `Web Applications`
+#### 4. Bonus task: Open source contribution
+- Make a contribution to Perspective or other projects backlogs 
+- `Contrubuting to the Open Source Community`
+---
+#### My Certificate of Completion
