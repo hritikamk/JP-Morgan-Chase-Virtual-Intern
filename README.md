@@ -1,5 +1,3 @@
-# JP-Morgan-Virtual-Intern
-
 # JPMorgan-Chase-Virtual-Internship
 This repository contains all the submitted patch files of the various tasks assigned by JPMorgan Chase & Co. Software Engineering Virtual Internship
 
@@ -28,3 +26,4 @@ This repository contains all the submitted patch files of the various tasks assi
 - `Contrubuting to the Open Source Community`
 ---
 #### My Certificate of Completion
+![New](https://user-images.githubusercontent.com/40789486/83999923-5a5ad900-a981-11ea-8b79-1c918da0e279.png)
